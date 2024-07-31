@@ -1,5 +1,7 @@
-import validators
+#!/usr/bin/env python3
+
 import requests
+import validators
 
 URLS = ["https://empty-smoke.surge.sh/login",
         "https://achang-jobly.onrender.com",
